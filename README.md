@@ -1,7 +1,7 @@
 # tabela-de-cursos
 
 <h1 align="center">Lista de cursos para controlar no Git  </h1>
-<img src=""C:\Users\jefte\OneDrive\Imagens\Saved Pictures\Captura de tela 2022-04-10 094331.png"")
+<img src="C:\Users\jefte\OneDrive\Imagens\Saved Pictures\Captura de tela 2022-04-10 094331.png")
 
      
 <b><h1>Entre os cursos mencionados estão:</h1></b>
